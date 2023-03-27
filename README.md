@@ -15,6 +15,7 @@ The actors in the project are:
 
 ## Context Diagram DFD-0:
 
+![dfd](/assests/dfd.png)
 
 
 
