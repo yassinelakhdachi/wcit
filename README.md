@@ -17,5 +17,11 @@ The actors in the project are:
 
 ![dfd](/assests/dfd.png)
 
+## Data design diagram:
+To better interpret the structure of the system's tables and entities, the best method is to present them in an **MCD(modèle conceptuel des données)** diagram.
+
+![MCD](/assests/mcd.png)
+
+
 
 
